@@ -33,4 +33,3 @@ sample(13:24, size = 1)
 
 # Display the body weight of the selected mouse
 mice$Bodyweight[21]
->>>>>>> d9b265d3445f634224b5ba785f1328a003fafec4
